@@ -1,0 +1,2 @@
+- 👋 Me chamo Arthur Parreira
+- 👀 Gosto muito da área de tecnologia e pretendo me aprofundar e trabalhar nela.
