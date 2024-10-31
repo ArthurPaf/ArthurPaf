@@ -1,0 +1,32 @@
+#include <stdio.h>
+#define MAX 5
+
+int main(){
+    
+    int V[MAX],i,temp,j;
+    
+    for(i=0;i<MAX;i++){
+    printf("escreva um numero da posicao V[%d]\n",i);
+    scanf("%d",&V[i]);}
+    
+    printf("numeros escolhidos:\n");
+    for(i=0;i<MAX;i++)
+    printf("%d ",V[i]);
+    
+    printf("\n");
+    
+    for(j=0;j<MAX;j++){
+    for(i=0;i<MAX-1;i++){
+    if(V[i]>V[i+1]){
+        temp=V[i];
+        V[i]=V[i+1];
+        V[i+1]=temp;
+        
+    }
+    }
+    }
+    printf("resultado:\n");
+    for(i=0;i<MAX;i++)
+    printf("%d ",V[i]);
+    
+}
