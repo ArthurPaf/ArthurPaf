@@ -1,0 +1,31 @@
+#include <stdio.h>
+#define MAX 10
+
+int main(){
+    
+    char G[MAX]={'a','b','c','d','e','a','b','c','d','e'};
+    char R[MAX];
+    int i,a;
+    
+    for(a=1;a<6;a++){
+        printf("Aluno %d\n",a);
+    
+    for(i=0;i<MAX;i++){
+    printf("escreva a resposta R[%d]\n",i);
+    scanf(" %c",&R[i]);}
+    int j=0;
+    
+    for(i=0;i<MAX;i++)
+    if(R[i]==G[i]){
+        j++;
+        
+    }
+    printf("aluno acertou %d questoes\n",j);
+    if(j>=6){
+    printf("Aprovado!\n");
+    }else{
+        
+        printf("Reprovado!\n");
+    }
+    
+}}
