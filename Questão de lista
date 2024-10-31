@@ -1,0 +1,25 @@
+#include <stdio.h>
+#define MAX 20
+int main(){
+    
+    int S[MAX],v,i,temp;
+    
+    for(i=0;i<MAX;i++){
+    printf("Escreva um numero para a posicao S[%d]\n",i);
+    scanf("%d",&S[i]);
+    }
+    
+    printf("Escreva o numero a ser multiplicado:\n");
+    scanf("%d",&v);
+    
+    printf("Resultado:\n");
+    
+    
+    for(i=0;i<MAX;i++){
+  temp = S[i]*v;
+    
+    printf("%d ",temp);}
+    
+    
+    
+}
