@@ -1,0 +1,21 @@
+#include <stdio.h>
+#define MAX 5
+int main(){
+    
+    int V[MAX],i;
+    int j=0;
+    for(i=0;i<MAX;i++){
+    printf("Escreva um numero para a posicao V[%d]\n",i);
+    scanf("%d",&V[i]);}
+    
+    for(i=0;i<MAX;i++)
+    if(V[i]%2 == 0){
+        
+        j++;
+        
+    }
+    printf("Resposta: %d\n",j);
+    
+    
+    
+}
