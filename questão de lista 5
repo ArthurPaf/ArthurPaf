@@ -1,0 +1,30 @@
+#include <stdio.h>
+#define MAX 30
+
+int main(){
+    
+    int V[MAX],i,V2[MAX];
+    int n=1;
+    
+    for(i=0;i<MAX;i++){
+    printf("escreva um numero pra posicao V[%d]\n",i);
+    scanf("%d",&V[i]);}
+    
+    printf("numeros escolhidos:\n");
+    for(i=0;i<MAX;i++)
+     printf("%d ",V[i]);
+    
+    
+    for(i=0;i<MAX;i++)
+    if(V[i]==0){
+        
+        V[i]=n;
+        
+    }
+    printf("vetor novo: \n");
+    for(i=0;i<MAX;i++){
+    V2[i]=V[i];
+    
+    printf("%d ",V2[i]);}
+    
+}
