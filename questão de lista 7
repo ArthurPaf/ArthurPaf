@@ -1,0 +1,36 @@
+#include <stdio.h>
+
+int main(){
+    
+    int X[10],Y[10],i,Z[10];
+    
+    for(i=0;i<10;i++){
+    printf("escreva o numero da posicao X[%d]\n",i);
+    scanf("%d",&X[i]);}
+    
+    for(i=0;i<10;i++){
+    printf("escreva o numero da posicao Y[%d]\n",i);
+    scanf("%d",&Y[i]);}
+    
+     printf("diferença:\n");
+     
+    for(i=0;i<10;i++){
+    Z[i] = X[i]-Y[i];
+    printf("%d ",Z[i]);}
+    
+    printf("\n");
+    
+    printf("soma:\n");
+    
+    for(i=0;i<10;i++){
+     Z[i] = X[i]+Y[i];
+    printf("%d ",Z[i]);}
+    
+    printf("\n");
+    
+    printf("produto:\n");
+    
+    for(i=0;i<10;i++){
+     Z[i] = X[i]*Y[i];
+    printf("%d ",Z[i]);}
+}
