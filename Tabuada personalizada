@@ -1,0 +1,19 @@
+import java.util.Scanner;
+
+public class App {
+    
+    public static void main(String[] args) throws Exception {
+        Scanner input = new Scanner(System.in);
+
+        System.out.println("Escreva um numero para a tabuada: ");
+        int a = input.nextInt();
+
+        for (int b = 1; b < 11; b++){
+           int resultado = a * b;
+           System.out.println(a + " X " + b + " = " + resultado);
+        }
+        input.close();
+
+
+    }
+}
