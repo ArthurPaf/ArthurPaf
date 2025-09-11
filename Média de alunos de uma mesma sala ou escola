@@ -1,0 +1,25 @@
+import java.util.Scanner;
+
+public class App {
+    
+    public static void main(String[] args) {
+        Scanner input = new Scanner(System.in);
+
+        System.out.println("Quantos alunos tem na sala? ");
+        int alunos = input.nextInt();
+
+        System.out.println("coloque a nota de cada aluno: ");
+        Double soma = 0.0;
+        for(int i = 1; i <= alunos; i++){
+            System.out.println("nota " + i);
+            Double a = input.nextDouble();
+            soma = soma + a;
+        }
+
+        Double div = soma / alunos;
+        System.out.println("media dos alunos: " + div);
+
+        input.close();
+    }
+    
+}
