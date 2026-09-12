@@ -41,8 +41,9 @@ Aqui estão algumas das ferramentas e linguagens que utilizo no meu dia a dia:
 Aqui estão alguns dados automáticos sobre o meu perfil:
 
 <p align="center">
-  <img height="180em" src="https://herokuapp.com" alt="Estatísticas de Contribuições" />
+  <img src="https://vercel.app" alt="Gráfico de Atividades do Arthur" />
 </p>
+
 
 
 
