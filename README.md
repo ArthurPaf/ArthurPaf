@@ -8,13 +8,13 @@ Seja bem-vindo(a) ao meu perfil do GitHub. Sou um desenvolvedor focado em criar 
 
 Aqui estão algumas das ferramentas e linguagens que utilizo no meu dia a dia:
 
-![HTML5](https://shields.io)
-![CSS3](https://shields.io)
-![Java](https://shields.io)
-![Git](https://shields.io)
-![Flutter](https://shields.io)
-![Python](https://shields.io)
-![Delphi](https://shields.io)
+<p align="left">
+  <img src="https://shields.io" alt="HTML5" />
+  <img src="https://shields.io" alt="CSS3" />
+  <img src="https://shields.io" alt="JavaScript" />
+  <img src="https://shields.io" alt="Git" />
+  <img src="https://shields.io" alt="Flutter" />
+</p>
 
 ---
 
