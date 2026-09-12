@@ -23,7 +23,7 @@ Aqui estão algumas das ferramentas e linguagens que utilizo no meu dia a dia:
 
 ## 📫 Como me encontrar
 
-- 💼 [LinkedIn](www.linkedin.com/in/arthur-parreira-alves-ferreira-7569022b8)
+- 💼 [LinkedIn](https://www.linkedin.com/in/arthur-parreira-alves-ferreira-7569022b8/)
 - 📸 [Instagram](https://www.instagram.com/arthurpaf)
 
 ---
@@ -31,5 +31,8 @@ Aqui estão algumas das ferramentas e linguagens que utilizo no meu dia a dia:
 ### 📊 Minhas Estatísticas do GitHub
 Aqui estão alguns dados automáticos sobre o meu perfil:
 
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=ArthurPaf&show_icons=true&theme=tokyonight&hide_border=true" height="170" alt="Estatísticas do GitHub"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurPaf&layout=compact&theme=tokyonight&hide_border=true" height="170" alt="Linguagens mais utilizadas"/> </p>
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ArthurPaf&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurPaf&layout=compact&langs_count=8&theme=tokyonight"/>
+</div>
 
