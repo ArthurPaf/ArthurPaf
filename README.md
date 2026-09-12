@@ -8,13 +8,7 @@ Seja bem-vindo(a) ao meu perfil do GitHub. Sou um desenvolvedor focado em criar 
 
 Aqui estão algumas das ferramentas e linguagens que utilizo no meu dia a dia:
 
-<p align="left">
-  <img src="https://shields.io" alt="HTML5" />
-  <img src="https://shields.io" alt="CSS3" />
-  <img src="https://shields.io" alt="JavaScript" />
-  <img src="https://shields.io" alt="Git" />
-  <img src="https://shields.io" alt="Flutter" />
-</p>
+<p align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40" height="40" alt="Flutter"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" alt="Java"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="PostgreSQL"/> </p>
 
 ---
 
@@ -37,7 +31,5 @@ Aqui estão algumas das ferramentas e linguagens que utilizo no meu dia a dia:
 ### 📊 Minhas Estatísticas do GitHub
 Aqui estão alguns dados automáticos sobre o meu perfil:
 
-<p align="left">
-  <img src="https://vercel.app" alt="Estatísticas do GitHub" height="150" />
-</p>
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=ArthurPaf&show_icons=true&theme=tokyonight&hide_border=true" height="170" alt="Estatísticas do GitHub"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurPaf&layout=compact&theme=tokyonight&hide_border=true" height="170" alt="Linguagens mais utilizadas"/> </p>
 
