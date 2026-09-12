@@ -41,7 +41,8 @@ Aqui estão algumas das ferramentas e linguagens que utilizo no meu dia a dia:
 Aqui estão alguns dados automáticos sobre o meu perfil:
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ArthurPaf&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurPaf&layout=compact&langs_count=8&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=ArthurPaf&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Estatísticas de Arthur" />
+  <img height="180em" src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=ArthurPaf&layout=compact&langs_count=8&theme=dark" alt="Linguagens mais usadas" />
 </p>
+
 
