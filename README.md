@@ -37,17 +37,6 @@ Aqui estão algumas das ferramentas e linguagens que utilizo no meu dia a dia:
 
 ---
 
-### 📊 Minhas Estatísticas do GitHub
-Aqui estão alguns dados automáticos sobre o meu perfil:
-
-<p align="center">
-  <!-- Estatísticas Gerais usando um espelho estável -->
-  <img height="180em" src="https://vercel.app" alt="Estatísticas Gerais de Arthur" />
-  
-  <!-- Linguagens mais usadas usando um espelho estável -->
-  <img height="180em" src="https://vercel.app" alt="Linguagens mais usadas" />
-</p>
-
 
 
 
